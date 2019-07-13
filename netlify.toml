@@ -1,0 +1,4 @@
+[build]
+base = "findit/"
+publish = "findit/build/"
+command = "npm install build"
