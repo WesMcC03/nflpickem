@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nflpickem/static/css/main.e07048e5.chunk.css",
+    "main.js": "/nflpickem/static/js/main.85649f52.chunk.js",
+    "main.js.map": "/nflpickem/static/js/main.85649f52.chunk.js.map",
+    "runtime~main.js": "/nflpickem/static/js/runtime~main.db8c26dd.js",
+    "runtime~main.js.map": "/nflpickem/static/js/runtime~main.db8c26dd.js.map",
+    "static/js/2.100c8e3f.chunk.js": "/nflpickem/static/js/2.100c8e3f.chunk.js",
+    "static/js/2.100c8e3f.chunk.js.map": "/nflpickem/static/js/2.100c8e3f.chunk.js.map",
+    "index.html": "/nflpickem/index.html",
+    "precache-manifest.3c9229026db132781c73f071f1a329c0.js": "/nflpickem/precache-manifest.3c9229026db132781c73f071f1a329c0.js",
+    "service-worker.js": "/nflpickem/service-worker.js",
+    "static/css/main.e07048e5.chunk.css.map": "/nflpickem/static/css/main.e07048e5.chunk.css.map"
+  }
+}
